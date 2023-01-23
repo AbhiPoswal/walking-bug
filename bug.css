@@ -1,0 +1,321 @@
+html{
+    font-size: 62.5%;
+}
+
+*{
+    margin: 0rem;
+}
+
+body{
+    overflow: hidden;
+}
+
+.container{
+    width: 136rem;
+    height: 65.6rem;
+    top: 0rem;
+    position: fixed;
+    background-color: black;
+}
+
+#main_bg{
+    width: 136rem;
+    height: 65.6rem;
+    z-index: -1;
+    top: 0rem;
+    position: absolute;
+    /* margin-top: -2rem; */
+}
+
+.first{
+    background-color: rgba(53, 186, 12, 0.488);
+    width: 19rem;
+    height: 4rem;
+    margin-top: 2rem;
+    position: static;
+}
+
+.second{
+    background-color: rgba(53, 186, 12, 0.488);
+    width: 4rem;
+    height: 21rem;
+    margin-left: 15rem;
+}
+
+.third{
+    background-color: rgba(53, 186, 12, 0.488);
+    width: 21rem;
+    height: 4rem;
+    margin-left: 15rem;
+}
+
+.fourth{
+    background-color: rgba(53, 186, 12, 0.488);
+    width: 4rem;
+    height: 27rem;
+    margin-left: 32rem;
+}
+
+.fifth{
+    background-color: rgba(53, 186, 12, 0.488);
+    width: 14rem;
+    height: 4rem;
+    margin-left: 32rem;
+}
+
+.sixth{
+    background-color: rgba(53, 186, 12, 0.488);
+    width: 4rem;
+    height: 37rem;
+    margin-left: 42rem;
+    margin-top: -41rem;
+}
+
+.seventh{
+    background-color: rgba(53, 186, 12, 0.488);
+    width: 31rem;
+    height: 4rem;
+    margin-left: 42rem;
+    margin-top: -41rem;
+}
+
+.eigth{
+    background-color: rgba(53, 186, 12, 0.488);
+    width: 4rem;
+    height: 24rem;
+    margin-left: 73rem;
+    margin-top: -4rem;
+}
+
+.nineth{
+    background-color: rgba(53, 186, 12, 0.488);
+    width: 11rem;
+    height: 4rem;
+    margin-left: 62rem;
+    margin-top: -4rem;
+}
+
+.tenth{
+    background-color: rgba(53, 186, 12, 0.488);
+    width: 4rem;
+    height: 18rem;
+    margin-left: 62rem;
+}
+
+.eleventh{
+    background-color: rgba(53, 186, 12, 0.488);
+    width: 40rem;
+    height: 4rem;
+    margin-left: 62rem;
+    /* margin-top: -41rem; */
+}
+
+.twelth{
+    background-color: rgba(53, 186, 12, 0.488);
+    width: 4rem;
+    height: 34rem;
+    margin-left: 98rem;
+    margin-top: -38rem;
+}
+
+.thirteenth{
+    background-color: rgba(53, 186, 12, 0.488);
+    width: 25rem;
+    height: 4rem;
+    margin-left: 98rem;
+    margin-top: -38rem;
+}
+
+.fourteenth{
+    background-color: rgba(53, 186, 12, 0.488);
+    width: 4rem;
+    height: 29rem;
+    margin-left: 119rem;
+}
+
+.fifteenth{
+    background-color: rgba(53, 186, 12, 0.488);
+    width: 17rem;
+    height: 4rem;
+    margin-left: 119rem;
+    /* margin-top: -41rem; */
+}
+
+#my_bug{
+    width: 4rem;
+    height: 4rem;
+    position: absolute;
+    margin-top: -56rem;
+}
+
+/* eatable balls */
+
+#ball_0th{
+    width: 1rem;
+    height: 1rem;
+    border-radius: .5rem;
+    background-color: white;
+    margin-left: 16rem;
+    margin-top: 2rem;
+    position: absolute;
+}
+
+#ball_1st{
+    width: 1rem;
+    height: 1rem;
+    border-radius: .5rem;
+    background-color: white;
+    margin-left: 1rem;
+    margin-top: 22rem;
+    position: absolute;
+}
+
+#ball_2nd{
+    width: 1rem;
+    height: 1rem;
+    border-radius: .5rem;
+    background-color: white;
+    margin-left: 18rem;
+    margin-top: 1.4rem;
+    position: absolute;
+}
+
+#ball_3rd{
+    width: 1rem;
+    height: 1rem;
+    border-radius: .5rem;
+    background-color: white;
+    margin-left: 1rem;
+    margin-top: 28rem;
+    position: absolute;
+}
+
+#ball_3rrd{
+    width: 1rem;
+    height: 1rem;
+    border-radius: .5rem;
+    background-color: white;
+    margin-left: 11rem;
+    margin-top: 28rem;
+    position: absolute;
+}
+
+#ball_4th{
+    width: 1rem;
+    height: 1rem;
+    border-radius: .5rem;
+    background-color: white;
+    margin-left: 11rem;
+    margin-top: -39rem;
+    position: absolute;
+}
+
+#ball_5th{
+    width: 1rem;
+    height: 1rem;
+    border-radius: .5rem;
+    background-color: white;
+    margin-left: 32rem;
+    margin-top: -2rem;
+    position: absolute;
+}
+
+#ball_6th{
+    width: 1rem;
+    height: 1rem;
+    border-radius: .5rem;
+    background-color: white;
+    margin-left: 32rem;
+    margin-top: 21rem;
+    position: absolute;
+}
+
+#ball_7th{
+    width: 1rem;
+    height: 1rem;
+    border-radius: .5rem;
+    background-color: white;
+    margin-left: -10rem;
+    margin-top: 21rem;
+    position: absolute;
+}
+
+#ball_8th{
+    width: 1rem;
+    height: 1rem;
+    border-radius: .5rem;
+    background-color: white;
+    margin-left: 1rem;
+    margin-top: 23rem;
+    position: absolute;
+}
+
+#ball_9th{
+    width: 1rem;
+    height: 1rem;
+    border-radius: .5rem;
+    background-color: white;
+    margin-left: 37rem;
+    margin-top: 19rem;
+    position: absolute;
+}
+
+#ball_10th{
+    width: 1rem;
+    height: 1rem;
+    border-radius: .5rem;
+    background-color: white;
+    margin-left: 37rem;
+    margin-top: -37rem;
+    position: absolute;
+}
+
+#ball_11th{
+    width: 1rem;
+    height: 1rem;
+    border-radius: .5rem;
+    background-color: white;
+    margin-left: 22.5rem;
+    margin-top: -2rem;
+    position: absolute;
+}
+
+#ball_12th{
+    width: 1rem;
+    height: 1rem;
+    border-radius: .5rem;
+    background-color: white;
+    margin-left: 22.5rem;
+    margin-top: 34.5rem;
+    position: absolute;
+}
+
+#ball_13th{
+    width: 1rem;
+    height: 1rem;
+    border-radius: .5rem;
+    background-color: white;
+    margin-left: 14rem;
+    margin-top: 30.5rem;
+    position: absolute;
+}
+
+/* responsive */
+
+@media(max-width:998px){
+    html{
+    font-size: 55%;
+    }
+  }
+
+  @media(max-width:768px){
+    html{
+    font-size: 45%;
+    }
+  }
+
+  @media(max-width:468px){
+    html{
+    font-size: 25%;
+    }
+  }
